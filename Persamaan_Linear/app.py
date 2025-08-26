@@ -31,12 +31,12 @@ else:
     """)
 
 if option == "2D":
-    from Two_D import matriks_2D
+    from Persamaan_Linear.Two_D import matriks_2D
     matriks_2D()
 else:
-    from Three_D import matriks_3D
+    from Persamaan_Linear.Three_D import matriks_3D
     matriks_3D()
-    
+
 # Fungsi bikin footer
 st.markdown("---")
 st.markdown(
