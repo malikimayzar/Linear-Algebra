@@ -22,7 +22,7 @@ Prerequisites
 Python 3.10+
 
 Installation
-git clone https://github.com/malikimayzar/Persamaan_Linear.git
+git clone https://github.com/malikimayzar/Persamaan-Linear.git
 cd Persamaan_Linear
 pip install -r requirements.txt
 streamlit run app.py
@@ -98,3 +98,4 @@ Instagram: @malikimayzar
 ![Preview 3D](assets/preview_3d.gif)
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://persamaan-linear-ahc7kk2dsnhdhwfcthakh2.streamlit.app/)
+
