@@ -54,10 +54,11 @@ Instagram: @malikimayzar
 
 **3D Solver Preview**
 - Visualisasi bidang & titik potong 3D
-![Preview 3D](assets/preview_3d.gif)
+![Preview 3D](assets/preview_3d.png)
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://persamaan-linear-ahc7kk2dsnhdhwfcthakh2.streamlit.app/)
 https://persamaan-linear-ahc7kk2dsnhdhwfcthakh2.streamlit.app/
+
 
 
 
