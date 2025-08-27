@@ -22,29 +22,12 @@ Prerequisites
 Python 3.10+
 
 Installation
-git clone https://github.com/malikimayzar/Persamaan_Linear.git
+git clone https://github.com/malikimayzar/Persamaan-Linear.git
 cd Persamaan_Linear
 pip install -r requirements.txt
 streamlit run app.py
 
-🎮 Cara Penggunaan
-Untuk Persamaan 2D:
-a₁x + b₁y = c₁
-a₂x + b₂y = c₂
 
-Pilih 2D di sidebar:
-    -Input nilai matriks A dan vektor b
-    -Lihat solusi dan visualisasi grafik langsung
-
-Untuk Persamaan 3D
-text
-a₁x + b₁y + c₁z = d₁
-a₂x + b₂y + c₂z = d₂  
-a₃x + b₃y + c₃z = d₃
-Pilih 3D di sidebar
-
--Input semua koefisien
--Explore visualisasi 3D yang interaktif
 
 🛠️ Tech Stack:
     -Frontend: Streamlit
@@ -52,30 +35,6 @@ Pilih 3D di sidebar
     -Visualization: Matplotlib 3D, Quiver Plots
 
 Deployment: Streamlit Cloud
-
-📁 Project Structure
-text
-Persamaan_Linear/
-├── app.py             # Main application
-├── Two_D.py           # 2D solver module
-├── Three_D.py         # 3D solver module
-├── requirements.txt   # Dependencies
-├── assets/            # Images & preview
-└── README.md          # Documentation
-
-🎯 Contoh Penggunaan:
-Untuk Persamaan 2D:
-$$
-a_1x + b_1y = c_1 \\
-a_2x + b_2y = c_2
-$$
-
-Untuk Persamaan 3D:
-$$
-a_1x + b_1y + c_1z = d_1 \\
-a_2x + b_2y + c_2z = d_2 \\
-a_3x + b_3y + c_3z = d_3
-
 
 🤝 Contributing
 PR dipersilakan! Untuk perubahan besar, buka issue terlebih dahulu.
@@ -98,3 +57,7 @@ Instagram: @malikimayzar
 ![Preview 3D](assets/preview_3d.png)
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://persamaan-linear-ahc7kk2dsnhdhwfcthakh2.streamlit.app/)
+https://persamaan-linear-ahc7kk2dsnhdhwfcthakh2.streamlit.app/
+
+
+
