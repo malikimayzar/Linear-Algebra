@@ -29,14 +29,15 @@ else:
     - 'b = [2, 3, 4]'
     - ***Hasil:** (2.0, 3.0, 4.0)
     """)
-
-if option == "2D":
-    from Two_D import matriks_2D
-    matriks_2D()
-else:
-    from Three_D import matriks_3D
-    matriks_3D()
-
+def main():
+    if option == "2D":
+        from Two_D import matriks_2D
+        matriks_2D()
+    else:
+        from Three_D import matriks_3D
+        matriks_3D()
+if __name__ == "__main__":
+    main()
 # Fungsi bikin footer
 st.markdown("---")
 st.markdown(
